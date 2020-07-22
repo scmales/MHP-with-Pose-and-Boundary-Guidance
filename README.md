@@ -1,6 +1,6 @@
 # MHP-with-Pose-Boundary-Guidance
 ### Network
-![Network](https://github.com/scmales/MHP-with-Pose-and-Boundary-Guidance/tree/master/images/network.png)
+![Network](https://github.com/scmales/MHP-with-Pose-and-Boundary-Guidance/blob/master/images/network.png)
 ### Requirement
 Python 3.6<br>
 Pytorch 0.4.1 + related inplace_abn<br>
